@@ -17,10 +17,10 @@ const Footer = () => {
                             Your premier destination for premium cosmetics and beauty essentials. Elevate your glow with our curated collection.
                         </p>
                         <div className="flex gap-4">
-                            <a href="https://www.instagram.com/sonu_kr_saw78?igsh=bmF6NHZoZ2lydzAw" className="w-10 h-10 rounded-full bg-gray-50 dark:bg-gray-800 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-pink-50 dark:hover:bg-pink-900/30 hover:text-pink-600 dark:hover:text-pink-400 transition-all">
+                            <a href="https://www.instagram.com/astha.182?igsh=Nnhlejg0dmhua29q" className="w-10 h-10 rounded-full bg-gray-50 dark:bg-gray-800 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-pink-50 dark:hover:bg-pink-900/30 hover:text-pink-600 dark:hover:text-pink-400 transition-all">
                                 <Instagram size={20} />
                             </a>
-                            <a href="https://github.com/sonukumarsaw12" className="w-10 h-10 rounded-full bg-gray-50 dark:bg-gray-800 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-blue-50 dark:hover:bg-blue-900/30 hover:text-blue-600 dark:hover:text-blue-400 transition-all">
+                            <a href="https://github.com/astha434" className="w-10 h-10 rounded-full bg-gray-50 dark:bg-gray-800 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-blue-50 dark:hover:bg-blue-900/30 hover:text-blue-600 dark:hover:text-blue-400 transition-all">
                                 <Github size={20} />
                             </a>
                             <a href="#" className="w-10 h-10 rounded-full bg-gray-50 dark:bg-gray-800 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:bg-sky-50 dark:hover:bg-sky-900/30 hover:text-sky-600 dark:hover:text-sky-400 transition-all">
@@ -57,15 +57,15 @@ const Footer = () => {
                         <div className="space-y-4 text-sm text-gray-600 dark:text-gray-400">
                             <div className="flex items-start gap-3">
                                 <MapPin size={18} className="text-pink-500 flex-shrink-0 mt-0.5" />
-                                <span>1227 GBP Crest Toll Plaza<br />Kharar, Mohali Punjab 140301</span>
+                                <span>Chandigarh University<br />Kharar, Mohali Punjab 140301</span>
                             </div>
                             <div className="flex items-center gap-3">
                                 <Phone size={18} className="text-pink-500 flex-shrink-0" />
-                                <span>+91 62006 02843</span>
+                                <span>+91 9835326226</span>
                             </div>
                             <div className="flex items-center gap-3">
                                 <Mail size={18} className="text-pink-500 flex-shrink-0" />
-                                <span>skrajsonu6200@gmail.com</span>
+                                <span>astha.mth229@gmail.com</span>
                             </div>
                         </div>
                     </div>
