@@ -5,7 +5,7 @@
 
 A full-stack e-commerce application built with the MERN stack (MongoDB, Express, React, Node.js).
 
-**[Live Demo](https://shopping-full-stack-website.vercel.app/)**
+**[Live Demo](https://glowify-hazel.vercel.app/)**
 
 ## 🚀 Features
 
