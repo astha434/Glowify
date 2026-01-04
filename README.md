@@ -1,4 +1,4 @@
-# Cosmatic Shop
+# Cosmatic Site
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=react)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
